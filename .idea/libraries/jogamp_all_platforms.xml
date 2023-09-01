@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="jogamp-all-platforms">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Desktop/jogamp-all-platforms/jar" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/Desktop/jogamp-all-platforms" />
+    </SOURCES>
+    <jarDirectory url="file://$USER_HOME$/Desktop/jogamp-all-platforms/jar" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Desktop/jogamp-all-platforms" recursive="false" type="SOURCES" />
+  </library>
+</component>

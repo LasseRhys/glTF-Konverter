@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="java3d-core-master">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Desktop/java3d-core-master" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/Desktop/java3d-core-master/src" />
+    </SOURCES>
+    <jarDirectory url="file://$USER_HOME$/Desktop/java3d-core-master" recursive="false" />
+  </library>
+</component>
